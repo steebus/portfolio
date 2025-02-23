@@ -9,7 +9,6 @@ I'm a recent graduate of James Cook University's Master of Data Science program,
 - **Python**: Advanced data analytics, machine learning implementation
 - **R**: Statistical analysis, data visualization, machine learning
 - **SQL**: Database design and management
-- **SAS**: Advanced analytics and visual analysis
 
 ### Machine Learning & Statistics
 - Supervised Learning (Neural Networks, SVR)
@@ -22,12 +21,11 @@ I'm a recent graduate of James Cook University's Master of Data Science program,
 - Tableau
 - ggplot2
 - RStudio
-- Python visualization libraries
-- MATLAB
+- matplotlib
 
 ## Featured Projects
 
-### [Australian Unemployment Rate Prediction](./unemployment-prediction/)
+### [Australian Unemployment Rate Prediction](https://htmlpreview.github.io/?https://github.com/steebus/australian_covid_unemployment/blob/main/index.html)
 An advanced machine learning project comparing Support Vector Regression (SVR) and Neural Network approaches to predict unemployment rates using economic indicators.
 
 **Key Achievements:**
@@ -38,7 +36,7 @@ An advanced machine learning project comparing Support Vector Regression (SVR) a
 
 **Technologies:** R, Neural Networks, SVR, ggplot2, Tidyverse
 
-[View Project →](./unemployment-prediction/)
+[View Project →](https://htmlpreview.github.io/?https://github.com/steebus/australian_covid_unemployment/blob/main/index.html)
 
 
 ## Education
@@ -68,14 +66,6 @@ An advanced machine learning project comparing Support Vector Regression (SVR) a
 - 🌐 [Portfolio Website - Optional]
 
 ## Repository Structure
-```
-├── README.md
-├── unemployment-prediction/
-│   ├── README.md
-│   ├── analysis/
-│   └── data/
-└── [future-projects]/
-```
 
 ---
 *This portfolio showcases selected projects and achievements from my Master of Data Science program and continues to grow with new work and contributions.*
